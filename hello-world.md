@@ -2,5 +2,15 @@
 
 Dies ist ein Test-Repo.
 
-<pre>test</pre>
+*Dies ist ein kursiver Text*
+
+**Dies ein Text in Fettschrift**
+
+***dies ein kursiver Text in Fettschrift***
+
+_dies ist auch ein kursiver Text_
+
+
+
+
 
